@@ -5,10 +5,11 @@
   --grey: rgba(255, 255, 255, 0.597);
   --orange: #ff805d;
   --green: rgb(54, 234, 54);
-  --orange-gradient: linear-gradient(
-    268.35deg,
-    purple 15.47%,
-    #F450D3 60.18%
+  --purple:#F450D3;
+   --purple-gradient: linear-gradient(
+           268.35deg,
+           #9370DB 15.47%, /* Светлый фиолетовый */
+           #E066FF 60.18% /* Более приглушенный розовый */
   );
 }
 

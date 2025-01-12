@@ -15,7 +15,7 @@ const DataGrid = () => {
             header: 'Last Name',
         },
         {
-            accessorKey: "address", //normal accessorKey
+            accessorKey: "address",
             header: "Address",
         },
         {

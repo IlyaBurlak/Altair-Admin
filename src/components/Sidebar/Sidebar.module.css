@@ -26,6 +26,11 @@
 }
 
 .item>svg{
-    fill: white;
+    fill:  var(--grey-altair);
     width: 3rem;
+}
+
+.active {
+    border: 3px solid var(--purple);
+    border-radius: 10px;
 }
