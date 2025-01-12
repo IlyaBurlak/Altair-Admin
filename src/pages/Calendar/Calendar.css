@@ -5,7 +5,7 @@
     max-width: 1100px;
 }
 .fc-event{
-    background: var( --purple-gradient)!important;
+    background: var(--orange-gradient)!important;
 }
 .fc .fc-timegrid-slot{
     height: 2.5rem!important;

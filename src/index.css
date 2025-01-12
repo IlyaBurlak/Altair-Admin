@@ -6,10 +6,10 @@
   --orange: #ff805d;
   --green: rgb(54, 234, 54);
   --purple:#F450D3;
-   --purple-gradient: linear-gradient(
-           268.35deg,
-           #9370DB 15.47%, /* Светлый фиолетовый */
-           #E066FF 60.18% /* Более приглушенный розовый */
+  --purple-gradient: linear-gradient(
+          268.35deg,
+          #9370DB 15.47%,
+          #E066FF 60.18%
   );
 }
 
@@ -62,10 +62,10 @@ body {
   border-top: 0.3px solid rgba(255, 255, 255, 0.185);
   border-bottom: 0.3px solid rgba(255, 255, 255, 0.185);
   background: linear-gradient(
-    90deg,
-    rgba(53, 53, 53, 0) 1.21%,
-    rgba(53, 53, 53, 0.46) 49.45%,
-    rgba(53, 53, 53, 0) 103.83%
+          90deg,
+          rgba(53, 53, 53, 0) 1.21%,
+          rgba(53, 53, 53, 0.46) 49.45%,
+          rgba(53, 53, 53, 0) 103.83%
   );
   padding: 1.5rem 1rem;
 }
