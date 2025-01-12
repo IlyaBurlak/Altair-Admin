@@ -70,10 +70,10 @@ const OrdersPieChart = () => {
                     }
                 },
                 data: [
-                    { value: 2190, name: "Search Engine" },
-                    { value: 735, name: "Direct" },
-                    { value: 580, name: "Email" },
-                    { value: 484, name: "Union Ads" },
+                    { value: 400, name: "Physics courses" },
+                    { value: 1035, name: "C# courses" },
+                    { value: 580, name: "Java courses\n" },
+                    { value: 484, name: "JavaScript Courses" },
                 ]
             }
         ]
