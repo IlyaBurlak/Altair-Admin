@@ -44,3 +44,9 @@ src/
 ├── App.jsx              # Корневой компонент
 ├── main.jsx             # Точка входа
 └── index.css            # Глобальные стили
+
+```
+
+## 🌐 Деплой
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Altair_Posts-61777F?style=for-the-badge&logo=vercel)](https://altair-admin.vercel.app/dashboard)

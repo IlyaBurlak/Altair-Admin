@@ -61,7 +61,7 @@ export const groupNumber = (number) => {
 
 //* calendar Events
 let eventGuid = 0
-let todayStr = moment().format("YYYY-MM-DD")  // YYYY-MM-DD of today
+let todayStr = moment().format("YYYY-MM-DD")
 export const INITIAL_EVENTS = [
   {
     id: createEventId(),
