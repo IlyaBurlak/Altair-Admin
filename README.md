@@ -49,5 +49,5 @@ src/
 
 ## 🌐 Деплой
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Altair_Posts-61777F?style=for-the-badge&logo=vercel)]([altair-admin.vercel.app](https://altair-admin-6t7woof28-ilyas-projects-d95573b2.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Altair_Posts-61777F?style=for-the-badge&logo=vercel)](https://altair-admin-6t7woof28-ilyas-projects-d95573b2.vercel.app)
 )
